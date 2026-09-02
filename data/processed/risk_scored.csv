@@ -1,0 +1,190 @@
+sku_id,category,subcategory,forecast_avg_weekly,forecast_horizon_units,on_hand_units,on_order_units,lead_time_days,reorder_point,weeks_of_cover,stockout_risk,overstock_risk,risk_quadrant,recommended_action,sales_at_risk_rupees,capital_locked_rupees,revenue_at_stake
+SKU0112,Small Appliances,Climate,357.75,2146.5,96,215,20,1138,0.26834381551362685,0.9897372457123466,0.0,Reorder Now,Raise a replenishment order before stock runs out.,7494577.0,0.0,7494577.0
+SKU0026,Decor,Wall Art,284.1666666666667,1705.0,0,212,19,717,0.0,1.0,0.0,Reorder Now,Raise a replenishment order before stock runs out.,6143912.0,0.0,6143912.0
+SKU0052,Furniture,Chairs,358.7,2152.2,360,232,20,1100,1.0036241984945637,0.7163585161674784,0.0,Reorder Now,Raise a replenishment order before stock runs out.,6009876.0,0.0,6009876.0
+SKU0065,Decor,Rugs,273.68333333333334,1642.1,0,215,20,917,0.0,1.0,0.0,Reorder Now,Raise a replenishment order before stock runs out.,3840778.0,0.0,3840778.0
+SKU0007,Furniture,Tables,191.29999999999998,1147.8,0,143,19,677,0.0,1.0,0.0,Reorder Now,Raise a replenishment order before stock runs out.,3310656.0,0.0,3310656.0
+SKU0153,Small Appliances,Cleaning,336.21666666666664,2017.3,34,164,14,683,0.10112526644524861,0.9995470168053134,0.0,Reorder Now,Raise a replenishment order before stock runs out.,3032282.0,0.0,3032282.0
+SKU0024,Small Appliances,Cleaning,316.18333333333334,1897.1,0,238,16,1016,0.0,0.964681565266834,0.0,Reorder Now,Raise a replenishment order before stock runs out.,2263220.0,0.0,2263220.0
+SKU0047,Small Appliances,Cleaning,210.75,1264.5,12,132,15,636,0.05693950177935943,0.9751387878763238,0.0,Reorder Now,Raise a replenishment order before stock runs out.,2064557.0,0.0,2064557.0
+SKU0191,Decor,Rugs,178.11666666666667,1068.7,117,196,19,690,0.6568728361560775,0.6465828218663858,0.0,Reorder Now,Raise a replenishment order before stock runs out.,2047770.0,0.0,2047770.0
+SKU0087,Textiles,Cushions,127.0,762.0,0,61,15,282,0.0,1.0,0.0,Reorder Now,Raise a replenishment order before stock runs out.,2017232.0,0.0,2017232.0
+SKU0035,Decor,Wall Art,194.3166666666667,1165.9,43,111,16,504,0.22128827515224286,0.9472721481374137,0.0,Reorder Now,Raise a replenishment order before stock runs out.,2001609.0,0.0,2001609.0
+SKU0145,Small Appliances,Climate,172.3166666666667,1033.9,91,56,13,338,0.5280974949221394,0.8346489219270384,0.0,Reorder Now,Raise a replenishment order before stock runs out.,1120563.0,0.0,1120563.0
+SKU0051,Textiles,Cushions,155.81666666666666,934.9,104,132,15,614,0.6674510642849503,0.5871864352934837,0.0,Reorder Now,Raise a replenishment order before stock runs out.,969068.0,0.0,969068.0
+SKU0140,Small Appliances,Climate,106.28333333333335,637.7,142,85,20,369,1.3360514348439703,0.5464698115923058,0.0,Reorder Now,Raise a replenishment order before stock runs out.,897195.0,0.0,897195.0
+SKU0008,Decor,Rugs,129.45000000000002,776.7,67,107,19,425,0.5175743530320587,0.7987874588475485,0.0,Reorder Now,Raise a replenishment order before stock runs out.,894211.0,0.0,894211.0
+SKU0166,Furniture,Storage,159.25,955.5,24,79,11,340,0.15070643642072212,0.8824115848854682,0.0,Reorder Now,Raise a replenishment order before stock runs out.,808581.0,0.0,808581.0
+SKU0120,Decor,Wall Art,232.26666666666665,1393.6,151,247,19,939,0.6501148105625718,0.6626929713338756,0.0,Reorder Now,Raise a replenishment order before stock runs out.,792036.0,0.0,792036.0
+SKU0189,Decor,Wall Art,354.4166666666667,2126.5,118,189,11,792,0.33294145309193507,0.7427741260202846,0.0,Reorder Now,Raise a replenishment order before stock runs out.,766046.0,0.0,766046.0
+SKU0061,Furniture,Chairs,385.25,2311.5,0,247,18,1042,0.0,1.0,0.0,Reorder Now,Raise a replenishment order before stock runs out.,742903.0,0.0,742903.0
+SKU0167,Decor,Lighting,111.26666666666667,667.6,66,56,12,253,0.5931695626123428,0.6543954429443019,0.0,Reorder Now,Raise a replenishment order before stock runs out.,724307.0,0.0,724307.0
+SKU0066,Furniture,Storage,30.116666666666664,180.7,29,12,20,81,0.9629219701162148,0.8175196363210225,0.0,Reorder Now,Raise a replenishment order before stock runs out.,656794.0,0.0,656794.0
+SKU0197,Textiles,Cushions,208.73333333333335,1252.4,0,142,13,552,0.0,0.9276879321571571,0.0,Reorder Now,Raise a replenishment order before stock runs out.,604586.0,0.0,604586.0
+SKU0121,Textiles,Throws,139.65,837.9,83,55,8,238,0.5943430003580379,0.42933834317457165,0.0,Healthy,No action needed; leave as is.,599559.0,0.0,599559.0
+SKU0055,Decor,Rugs,113.38333333333333,680.3,175,103,17,408,1.5434367190945173,0.2844108038888333,0.0,Healthy,No action needed; leave as is.,580589.0,0.0,580589.0
+SKU0039,Decor,Rugs,180.35,1082.1,192,113,12,404,1.0645966176878292,0.30749228252821087,0.0,Healthy,No action needed; leave as is.,570099.0,0.0,570099.0
+SKU0199,Textiles,Throws,248.26666666666665,1489.6,65,204,16,929,0.2618152524167562,0.8199633444197074,0.0,Reorder Now,Raise a replenishment order before stock runs out.,569162.0,0.0,569162.0
+SKU0009,Furniture,Storage,236.58333333333334,1419.5,0,70,7,252,0.0,0.9981211652069553,0.0,Reorder Now,Raise a replenishment order before stock runs out.,532680.0,0.0,532680.0
+SKU0104,Decor,Wall Art,57.1,342.6,24,25,12,125,0.4203152364273205,0.7934162207327589,0.0,Reorder Now,Raise a replenishment order before stock runs out.,520346.0,0.0,520346.0
+SKU0034,Furniture,Tables,225.13333333333333,1350.8,423,165,16,827,1.8788865857269768,0.15134379597477218,0.0,Healthy,No action needed; leave as is.,439728.0,0.0,439728.0
+SKU0054,Furniture,Chairs,97.78333333333332,586.6999999999999,187,79,19,376,1.9123913414010572,0.2917842157064995,0.0,Healthy,No action needed; leave as is.,418436.0,0.0,418436.0
+SKU0129,Textiles,Bedding,104.85000000000001,629.1,68,41,9,198,0.6485455412494039,0.4854374997106317,0.0,Healthy,No action needed; leave as is.,405222.0,0.0,405222.0
+SKU0012,Furniture,Chairs,135.61666666666667,813.7,63,34,6,133,0.46454467248371634,0.459540121400048,0.0,Healthy,No action needed; leave as is.,373304.0,0.0,373304.0
+SKU0176,Small Appliances,Kitchen,142.26666666666668,853.6,101,86,14,396,0.7099343955014057,0.6367835029166466,0.0,Reorder Now,Raise a replenishment order before stock runs out.,337827.0,0.0,337827.0
+SKU0161,Decor,Rugs,208.25,1249.5,159,125,18,584,0.7635054021608644,0.763654527051999,0.0,Reorder Now,Raise a replenishment order before stock runs out.,300516.0,0.0,300516.0
+SKU0041,Textiles,Bedding,159.71666666666667,958.3,290,136,17,590,1.8157153292288428,0.1957316198279595,0.0,Healthy,No action needed; leave as is.,290081.0,0.0,290081.0
+SKU0124,Furniture,Storage,175.65,1053.9,159,58,10,257,0.9052092228864218,0.42921206774581017,0.0,Healthy,No action needed; leave as is.,272902.0,0.0,272902.0
+SKU0037,Furniture,Chairs,161.68333333333334,970.1,96,49,7,188,0.59375322131739,0.3971852361786296,0.0,Healthy,No action needed; leave as is.,270889.0,0.0,270889.0
+SKU0132,Textiles,Bedding,258.3,1549.8,428,195,15,637,1.656987998451413,0.16843541071646717,0.0,Healthy,No action needed; leave as is.,263433.0,0.0,263433.0
+SKU0182,Textiles,Bedding,31.416666666666668,188.5,1,14,12,55,0.03183023872679045,1.0,0.0,Reorder Now,Raise a replenishment order before stock runs out.,255949.0,0.0,255949.0
+SKU0181,Furniture,Storage,78.18333333333334,469.1,123,80,16,237,1.573225325090599,0.15804817647649447,0.0,Healthy,No action needed; leave as is.,235846.0,0.0,235846.0
+SKU0177,Decor,Rugs,398.9666666666667,2393.8,674,337,20,1486,1.689364190826301,0.40708379945907086,0.0,Healthy,No action needed; leave as is.,223169.0,0.0,223169.0
+SKU0057,Decor,Lighting,64.5,387.0,77,55,18,212,1.193798449612403,0.49813436392167043,0.0,Healthy,No action needed; leave as is.,201225.0,0.0,201225.0
+SKU0006,Textiles,Throws,78.41666666666667,470.5,121,69,20,298,1.543039319872476,0.44596599163330797,0.0,Healthy,No action needed; leave as is.,176135.0,0.0,176135.0
+SKU0118,Textiles,Throws,64.61666666666666,387.7,15,37,9,104,0.23213825122517412,0.6680864849512415,0.0,Reorder Now,Raise a replenishment order before stock runs out.,166388.0,0.0,166388.0
+SKU0131,Small Appliances,Climate,31.933333333333334,191.6,0,17,14,77,0.0,1.0,0.0,Reorder Now,Raise a replenishment order before stock runs out.,151420.0,0.0,151420.0
+SKU0123,Decor,Lighting,231.25,1387.5,354,212,16,697,1.5308108108108107,0.2231891887669393,0.0,Healthy,No action needed; leave as is.,139282.0,0.0,139282.0
+SKU0171,Furniture,Storage,199.9,1199.4,94,137,15,605,0.4702351175587794,0.7547303634206727,0.0,Reorder Now,Raise a replenishment order before stock runs out.,134012.0,0.0,134012.0
+SKU0088,Decor,Wall Art,132.73333333333332,796.4,12,106,19,336,0.09040683073832247,0.9664734964847149,0.0,Reorder Now,Raise a replenishment order before stock runs out.,133680.0,0.0,133680.0
+SKU0109,Decor,Wall Art,47.1,282.6,91,31,17,126,1.9320594479830149,0.22743324392152775,0.0,Healthy,No action needed; leave as is.,127310.0,0.0,127310.0
+SKU0011,Textiles,Throws,45.333333333333336,272.0,51,17,13,107,1.125,0.4863076865314132,0.0,Healthy,No action needed; leave as is.,114478.0,0.0,114478.0
+SKU0117,Furniture,Chairs,292.40000000000003,1754.4,148,76,6,323,0.506155950752394,0.40024714842582665,0.0,Healthy,No action needed; leave as is.,112600.0,0.0,112600.0
+SKU0077,Textiles,Cushions,11.75,70.5,127,6,16,60,10.808510638297872,0.0,0.35106382978723394,Healthy,No action needed; leave as is.,0.0,104382.0,104382.0
+SKU0162,Furniture,Chairs,151.91666666666666,911.5,181,95,14,497,1.1914426769061985,0.38560723954270787,0.0,Healthy,No action needed; leave as is.,91726.0,0.0,91726.0
+SKU0183,Furniture,Storage,58.083333333333336,348.5,502,18,5,61,8.642754662840746,0.0,0.08034433285509324,Healthy,No action needed; leave as is.,0.0,91059.0,91059.0
+SKU0070,Decor,Lighting,90.61666666666667,543.7,229,59,19,375,2.5271289313959904,0.12307563137864576,0.0,Healthy,No action needed; leave as is.,87150.0,0.0,87150.0
+SKU0125,Decor,Rugs,137.58333333333334,825.5,0,26,5,108,0.0,1.0,0.0,Reorder Now,Raise a replenishment order before stock runs out.,78809.0,0.0,78809.0
+SKU0053,Textiles,Throws,197.46666666666667,1184.8,424,147,16,554,2.147197839297772,0.028913065432227512,0.0,Healthy,No action needed; leave as is.,59573.0,0.0,59573.0
+SKU0130,Decor,Lighting,334.15000000000003,2004.9,551,115,11,505,1.6489600478826874,0.025652904879525987,0.0,Healthy,No action needed; leave as is.,56742.0,0.0,56742.0
+SKU0042,Small Appliances,Cleaning,41.449999999999996,248.7,46,33,15,97,1.1097708082026538,0.4045749853928025,0.0,Healthy,No action needed; leave as is.,42386.0,0.0,42386.0
+SKU0025,Furniture,Tables,105.51666666666667,633.1,865,103,15,333,8.197757068393619,0.0,0.02471963354920237,Healthy,No action needed; leave as is.,0.0,39746.0,39746.0
+SKU0013,Small Appliances,Kitchen,30.333333333333332,182.0,55,8,13,68,1.8131868131868132,0.17565680161555963,0.0,Healthy,No action needed; leave as is.,39500.0,0.0,39500.0
+SKU0194,Furniture,Chairs,42.06666666666667,252.4,52,33,19,120,1.236133122028526,0.5495675988235385,0.0,Reorder Now,Raise a replenishment order before stock runs out.,38633.0,0.0,38633.0
+SKU0108,Decor,Wall Art,58.61666666666667,351.7,78,35,15,124,1.330679556440148,0.39436963007041514,0.0,Healthy,No action needed; leave as is.,27214.0,0.0,27214.0
+SKU0136,Small Appliances,Kitchen,19.733333333333334,118.4,40,21,18,75,2.0270270270270268,0.09186035855004933,0.0,Healthy,No action needed; leave as is.,23215.0,0.0,23215.0
+SKU0083,Textiles,Throws,73.03333333333335,438.20000000000005,188,47,18,174,2.574167047010497,0.04266879636491609,0.0,Healthy,No action needed; leave as is.,17540.0,0.0,17540.0
+SKU0064,Decor,Wall Art,161.85,971.1,889,130,19,483,5.492740191535373,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0063,Textiles,Cushions,226.70000000000002,1360.2,682,101,9,365,3.0083811204234667,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0062,Decor,Rugs,79.81666666666668,478.90000000000003,451,65,15,326,5.650448945500104,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0060,Furniture,Chairs,132.08333333333334,792.5,709,63,12,281,5.36782334384858,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0036,Small Appliances,Climate,146.1,876.6,599,128,19,445,4.099931553730322,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0032,Decor,Wall Art,251.39999999999998,1508.3999999999999,1159,164,14,568,4.610182975338107,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0044,Furniture,Storage,44.083333333333336,264.5,126,8,5,35,2.8582230623818523,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0043,Furniture,Chairs,58.23333333333333,349.4,108,22,10,97,1.8546078992558674,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0045,Furniture,Chairs,133.36666666666667,800.2,545,85,11,388,4.086478380404898,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0046,Furniture,Tables,83.78333333333333,502.7,547,43,11,207,6.528744778197733,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0048,Furniture,Tables,248.9333333333333,1493.6,1240,62,5,237,4.981253347616498,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0049,Furniture,Tables,135.58333333333334,813.5,454,74,17,314,3.348494161032575,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0033,Decor,Rugs,144.95000000000002,869.7,434,138,19,386,2.994135908934115,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0003,Decor,Lighting,15.950000000000001,95.7,37,6,10,32,2.31974921630094,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0004,Decor,Rugs,141.70000000000002,850.2,501,102,14,391,3.535638673253352,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0014,Furniture,Chairs,63.46666666666667,380.8,130,28,9,106,2.0483193277310923,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0018,Small Appliances,Kitchen,66.78333333333333,400.7,171,37,14,131,2.5605190915897182,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0015,Small Appliances,Climate,51.18333333333334,307.1,120,22,8,100,2.344513187886682,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0016,Furniture,Chairs,14.366666666666667,86.2,37,5,10,30,2.5754060324825985,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0017,Textiles,Bedding,233.6,1401.6,694,62,6,262,2.970890410958904,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0021,Furniture,Tables,38.5,231.0,140,14,9,58,3.6363636363636362,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0020,Small Appliances,Kitchen,54.699999999999996,328.2,222,47,15,148,4.058500914076783,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0019,Decor,Lighting,198.01666666666665,1188.1,600,43,5,179,3.0300479757596164,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0023,Textiles,Cushions,251.21666666666667,1507.3,506,137,12,526,2.0141975718171565,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0022,Small Appliances,Kitchen,250.71666666666667,1504.3,390,83,8,364,1.5555407830884798,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0027,Small Appliances,Climate,204.51666666666665,1227.1,604,113,11,479,2.953304539157363,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0028,Furniture,Tables,315.6666666666667,1894.0,976,74,9,316,3.091869060190074,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0029,Decor,Lighting,75.08333333333333,450.5,289,28,11,127,3.849056603773585,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0002,Textiles,Bedding,184.61666666666667,1107.7,503,156,15,668,2.724564412747134,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0005,Textiles,Bedding,140.28333333333333,841.7,360,136,18,597,2.5662350005940358,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0001,Small Appliances,Climate,166.61666666666667,999.7,685,133,20,555,4.1112333700110035,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0010,Textiles,Cushions,263.28333333333336,1579.7,771,140,17,697,2.928404127365955,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0058,Furniture,Storage,143.21666666666667,859.3,527,92,15,424,3.6797393227045267,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0059,Textiles,Bedding,155.88333333333333,935.3,535,97,10,419,3.4320538864535446,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0050,Decor,Wall Art,99.21666666666665,595.3,469,120,20,480,4.72702838904754,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0056,Decor,Lighting,64.60000000000001,387.6,279,24,12,157,4.318885448916408,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0090,Textiles,Bedding,213.3166666666667,1279.9,816,108,17,544,3.825298851472771,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0089,Textiles,Cushions,93.18333333333334,559.1,543,25,6,78,5.827222321588267,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0085,Decor,Wall Art,30.400000000000002,182.4,121,3,7,39,3.9802631578947367,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0095,Furniture,Storage,141.91666666666666,851.5,361,23,5,123,2.543746330005872,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0094,Textiles,Bedding,64.63333333333334,387.8,147,20,5,60,2.2743682310469313,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0093,Furniture,Chairs,219.95000000000002,1319.7,1089,113,11,450,4.951125255739941,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0092,Small Appliances,Cleaning,137.78333333333333,826.7,248,77,11,342,1.7999274222813597,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0091,Textiles,Throws,77.55,465.3,287,45,11,206,3.7008381689232754,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0098,Decor,Wall Art,255.56666666666663,1533.3999999999999,756,121,11,423,2.958132255119343,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0097,Small Appliances,Cleaning,261.3,1567.8,1327,233,18,878,5.078453884424033,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0096,Furniture,Storage,99.96666666666665,599.8,547,49,11,157,5.471823941313772,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0079,Furniture,Chairs,262.71666666666664,1576.3,701,154,15,659,2.668273805747637,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0081,Textiles,Throws,30.366666666666664,182.2,90,10,8,36,2.9637760702524703,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0080,Small Appliances,Climate,32.36666666666667,194.2,87,25,13,88,2.6879505664263643,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0069,Decor,Rugs,154.61666666666667,927.7,718,76,8,302,4.643742589199094,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0068,Decor,Wall Art,258.73333333333335,1552.4,713,203,18,930,2.7557330584900797,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0073,Textiles,Cushions,387.93333333333334,2327.6,601,88,7,394,1.5492352637910294,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0074,Furniture,Tables,268.31666666666666,1609.9,432,95,10,392,1.6100378905522081,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0075,Textiles,Throws,251.85,1511.1,1540,83,7,283,6.114750843756204,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0076,Furniture,Storage,76.25,457.5,551,82,17,338,7.226229508196721,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0078,Furniture,Storage,167.63333333333333,1005.8,708,99,17,594,4.22350367866375,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0071,Decor,Lighting,80.16666666666667,481.0,185,35,7,113,2.3076923076923075,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0072,Textiles,Throws,162.08333333333334,972.5,541,164,18,764,3.337789203084833,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0067,Textiles,Cushions,270.90000000000003,1625.4,1590,87,9,365,5.869324473975636,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0127,Furniture,Storage,135.83333333333334,815.0,567,78,13,329,4.174233128834356,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0128,Decor,Rugs,96.33333333333333,578.0,210,51,11,224,2.179930795847751,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0126,Small Appliances,Cleaning,136.78333333333333,820.7,158,36,6,188,1.1551114901913002,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0122,Decor,Wall Art,208.5666666666667,1251.4,1161,155,18,657,5.566565446699696,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0115,Furniture,Tables,165.06666666666666,990.4,791,61,5,236,4.7920032310177705,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0116,Furniture,Storage,323.1166666666667,1938.7,2003,72,6,290,6.198999329447568,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0119,Small Appliances,Cleaning,177.04999999999998,1062.3,440,79,7,294,2.4851736797514827,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0100,Textiles,Throws,244.16666666666666,1465.0,1643,59,7,390,6.72901023890785,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0106,Furniture,Chairs,102.68333333333334,616.1,372,47,10,200,3.6227885083590325,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0105,Furniture,Tables,328.23333333333335,1969.4,1462,212,14,803,4.454148471615721,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0103,Small Appliances,Cleaning,33.083333333333336,198.5,127,20,13,64,3.8387909319899243,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0107,Small Appliances,Climate,28.566666666666666,171.4,179,14,10,70,6.266044340723454,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0110,Small Appliances,Cleaning,154.03333333333333,924.2,565,40,6,147,3.668037221380654,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0111,Decor,Wall Art,73.93333333333334,443.6,88,23,5,74,1.1902614968440035,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0113,Decor,Wall Art,152.31666666666666,913.9,625,183,20,811,4.103293576977787,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0114,Furniture,Tables,15.6,93.6,77,13,20,54,4.935897435897436,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0099,Furniture,Storage,118.51666666666667,711.1,773,38,8,191,6.522289410772044,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0101,Furniture,Chairs,208.54999999999998,1251.3,1418,56,7,224,6.7993286981539205,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0102,Furniture,Chairs,142.58333333333334,855.5,748,60,7,239,5.246054938632378,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0082,Decor,Lighting,162.43333333333334,974.6,1013,66,8,353,6.236404678842602,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0086,Decor,Rugs,88.66666666666667,532.0,242,24,5,100,2.7293233082706765,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0144,Small Appliances,Kitchen,61.4,368.4,197,40,11,137,3.208469055374593,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0147,Furniture,Storage,158.26666666666668,949.6,1222,122,17,576,7.721145745577084,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0146,Furniture,Storage,157.25,943.5,560,76,9,394,3.56120826709062,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0150,Decor,Wall Art,40.333333333333336,242.0,262,31,15,152,6.495867768595041,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0148,Furniture,Storage,39.483333333333334,236.9,181,17,6,58,4.584212747994934,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0143,Textiles,Throws,160.18333333333334,961.1,855,162,17,580,5.337633961086255,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0142,Furniture,Chairs,138.71666666666667,832.3,875,58,9,256,6.307821698906644,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0141,Textiles,Cushions,83.93333333333334,503.6,414,61,13,214,4.932486100079428,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0134,Small Appliances,Cleaning,91.61666666666667,549.7,429,83,19,386,4.682554120429325,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0138,Decor,Rugs,259.96666666666664,1559.8,778,134,12,657,2.9926913706885503,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0133,Furniture,Tables,170.5,1023.0,436,40,6,175,2.557184750733138,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0164,Furniture,Tables,142.51666666666665,855.0999999999999,262,65,11,277,1.838381475850778,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0165,Decor,Wall Art,13.950000000000001,83.7,83,23,18,79,5.949820788530466,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0160,Decor,Wall Art,54.01666666666667,324.1,134,28,13,118,2.4807158284480098,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0163,Decor,Rugs,279.9166666666667,1679.5,1175,93,10,356,4.197677880321524,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0156,Small Appliances,Climate,144.41666666666666,866.5,795,204,20,775,5.504904789382574,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0157,Furniture,Tables,150.23333333333332,901.4,612,106,16,548,4.073663190592412,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0158,Small Appliances,Cleaning,270.05,1620.3,808,133,16,519,2.99203851138678,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0159,Small Appliances,Kitchen,44.800000000000004,268.8,237,16,8,73,5.290178571428571,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0155,Decor,Rugs,167.35,1004.1,359,96,13,439,2.1452046608903497,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0152,Furniture,Tables,55.48333333333333,332.9,182,37,11,138,3.280264343646741,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0151,Decor,Lighting,25.233333333333334,151.4,116,10,7,30,4.597093791281374,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0172,Furniture,Tables,45.48333333333333,272.9,316,26,9,108,6.947599853426165,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0174,Textiles,Throws,206.0666666666667,1236.4,613,188,15,740,2.9747654480750563,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0173,Furniture,Chairs,77.76666666666667,466.59999999999997,229,22,5,89,2.944706386626661,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0169,Decor,Wall Art,169.56666666666666,1017.4,647,43,5,151,3.815608413603303,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0168,Furniture,Chairs,93.81666666666666,562.9,725,94,17,406,7.727837981879553,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0184,Textiles,Cushions,270.68333333333334,1624.1,701,114,10,412,2.5897420109599163,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0178,Furniture,Chairs,96.66666666666667,580.0,293,32,7,117,3.0310344827586206,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0179,Decor,Wall Art,283.6166666666667,1701.7,1338,213,19,953,4.7176353058705995,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0180,Small Appliances,Kitchen,255.5666666666667,1533.4,1437,239,20,1075,5.62279900873875,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0170,Furniture,Storage,251.1,1506.6,1145,94,9,377,4.559936280366388,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0188,Decor,Rugs,244.5666666666667,1467.4,864,222,19,1109,3.5327790650129476,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0185,Textiles,Throws,187.70000000000002,1126.2,1164,69,7,328,6.201385189131592,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0186,Small Appliances,Climate,111.33333333333333,668.0,584,87,14,298,5.245508982035928,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0192,Small Appliances,Climate,53.6,321.6,133,52,18,230,2.4813432835820897,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0190,Furniture,Chairs,208.3166666666667,1249.9,1053,65,6,292,5.0548043843507475,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0187,Textiles,Bedding,235.01666666666665,1410.1,656,170,16,683,2.791291397773208,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0193,Furniture,Storage,46.36666666666667,278.2,290,41,19,150,6.2544931703810205,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0196,Small Appliances,Kitchen,75.28333333333333,451.7,300,51,13,223,3.9849457604604828,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0195,Decor,Rugs,124.33333333333333,746.0,473,67,10,241,3.804289544235925,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0198,Furniture,Tables,61.71666666666667,370.3,188,58,20,274,3.046178773967054,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+SKU0200,Furniture,Storage,45.6,273.6,60,13,5,49,1.3157894736842104,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
