@@ -15,7 +15,7 @@ import streamlit as st
 import plotly.express as px
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents
 PROC = ROOT / "data" / "processed"
 
 st.set_page_config(page_title="FORESIGHT — NorthBay Living", layout="wide")
